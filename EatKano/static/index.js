@@ -343,7 +343,7 @@ function shareText(score) {
     SubmitResults();
     if (score <= 49) return '就这？包子是你爹？';
     if (score <= 99) return '还行，跟狗包子55开';
-    if (score <= 149) return '牛批，狗包子泪目';
+    if (score <= 129) return '牛批，狗包子泪目';
     if (score <= 199) return '您就是狗包子的再生父母';
     return '人？';
 }
